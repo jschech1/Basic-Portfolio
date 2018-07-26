@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+    
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -1px;
+    margin-bottom: 9px;
+    
+  }
+
+
+body {
+  
+   
+        
+        background-image: url("../images/gray_jean.png")
+
+
+}
+
+  .border {
+      border: black 1px;
+  }
+
+  #profilepic {
+      float: left;
+      padding: 10px 10px 5px 30px;
+      margin: 20px;
+  }
+
+  #contentText {
+    margin: 5px 20px 5px 50px;
+      padding: 20px;
+      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+      width: 850px;
+      line-height: 200%;
+    }
+
+   #navbar {
+    float: left;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-decoration: none;
+    color: #777777;
+    padding: 35px 40px 20px 220px;
+    width: 500px;
+    
+}
+
+
+  .clearfix::after {
+    clear: both;
+    content: "";
+    display: block;
+ }
+
+
+
+ #header {
+    padding: 10px 30px;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: left;
+    /* margin-top: -100px; */
+    width: 350px;
+    text-align: center;
+    margin-left: 450px;
+    height: 90px;
+
+
+
+}
+
+h1 {float: left;
+width: 300px;
+background-color: #4aaaa5;
+  color: white;
+  line-height: 70px;}
+
+#AboutMe {color: #4aaaa5;
+    padding: 20px 40px 0px 40px;
+font-size: 24px;}
+
+p {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+
+
+
+#Main {
+    background-color: #ffffff;
+    position: relative;
+    width: 100%;
+}
+
+hr {
+    border: 1px thin black;
+    width: 100%;
+}
+
+
+
+
+footer {
+    background-color: #666666;
+    border-top: solid 8px #4aaaa5;
+    text-align: center;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 1px;
+    height: 70px;
+    left: 10px;
+}
+
+#wholeBody {
+    width: 960px;
+    padding-bottom: 50px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 50%;
+    right: 352px;
+}
+
+#top-header {
+    background-color: white;
+    border-bottom: #d1d1d1 solid 2px;
+
+}
+
+#formFields {
+    margin: 40px; 
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+
+
+#button {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+
+}
+p {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+#image1 {
+    float: left;
+    padding: 10px 10px 5px 30px;
+    margin: 20px;
+}
